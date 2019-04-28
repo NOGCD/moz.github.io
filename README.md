@@ -1,1 +1,1 @@
-# mozi.github.io
+# moz.github.io
